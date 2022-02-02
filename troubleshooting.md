@@ -60,7 +60,8 @@ What we will check?
 
 Connect your arduino to an led like in this diagram:
 
-![img]()
+![image](https://user-images.githubusercontent.com/72706877/152248261-667888a8-5b69-4577-a0cb-e199338a2030.png)
+
 
 And upload this code:
 
@@ -83,7 +84,7 @@ The output of this code should be an LED blinking. (2 seconds on, 5 seconds off)
 
 Now let's check if arduino can detect change on those pins. Connect your arduino to a pushbutton like in this diagram:
 
-![img]()
+![image](https://user-images.githubusercontent.com/72706877/152248444-71faea13-42a9-45f4-afdf-d1b48fa19dbe.png)
 
 And upload this code:
 
